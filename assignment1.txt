@@ -1,0 +1,66 @@
+MUMT301-2019 Assignment 1
+QUESTIONNAIRE!
+
+The following questionnaire seeks to understand your previous knowledge about some of the concepts that we will learn in class during the coming term.
+
+
+1. Do you know any programming languages? If you do, which ones?
+-tiny bit of java
+-
+2. What is your primary computer operating system?
+
+-windows
+3. Do you own a smartphone, table, or mobile device? If you do, what model and OS?
+yes, google pixel
+
+4. Do you use any social networking services? If you do, which ones? Why?
+facebook, instagram
+
+5. Expand the following acronyms and do research about their meaning. You may look them up if you don't know:
+
+	HTTP
+	REST
+	API
+
+6. Do you play a musical instrument or sing? If so, how proficient are you?
+classical guitar, advanced
+piano, voice, percussion, tabla, bass  (intermediate)
+sax, flute, accordion, cello (beginner)
+
+7. Can you read music notation? If so, how well?
+yes, very well, can sightread guitar
+
+8. How large is your personal music collection? Estimate the number of artists, albums, and songs. If instead you listen to music using streaming services, how many playlists, artists, albums, and songs do you have in your account?
+between 600-1000 individual songs, maybe 40 artists I listen to at least once a month
+
+9. How do you search and find new music?
+spotify reccomendations and radios
+
+10. Implement a script in your favorite programming language that takes numbers as its input until it receives the command "done." When it reads "done," print out the average of all the numbers that were input.
+
+
+If you don't know a programming language, write out all the steps you would need to accomplish the same task.
+
+Example: if we were writing a piece of software that took ingredients of a recipe and then, when it received the word "end" it printed the ingredients out, our steps might look like this:
+
+	1. Input ingredients
+	2. If input is not "end" add the ingredient to the ingredient list
+	3. Go to step 1.
+	4. If input is "end" print each ingredient in the ingredient list,
+	5. Exit.
+
+11. What is Git?
+
+12. What is Github? Do you have an account? If you do not, create one and provide your username.
+
+13. List all the musical shows that you are planning to attend in the next few weeks. Do provide links to them.
+
+14. In your opinion, what are the two most interesting upcoming musical artists?
+
+To deliver the questionnaire you will:
+
+	1. Create another folder named www inside your home directory in the server
+	2. Move the file questionnaire.txt to the www folder you just made
+	3. Rename the file questionnaire.txt to assignment1.txt
+	4. If you did everything correctly, you should be able to see the file in a web browser by typing its URL
+	http://132.206.14.130/yourusername/assignment1.txt
